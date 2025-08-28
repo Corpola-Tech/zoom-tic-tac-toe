@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Zoom Tic Tac Toe",
+    "slug": "zoom-tic-tac-toe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "description": "Strategic Multi-Level Tic-Tac-Toe game with smooth animations and AI opponent",
+    "privacy": "public",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e3a8a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.corpolatech.zoomtictactoe"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1e3a8a"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.corpolatech.zoomtictactoe",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.VIBRATE"
+      ],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.corpolatech.zoomtictactoe"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "460a6c7c-a832-4db5-9c7d-ace91487e827"
+      }
+    },
+    "owner": "arjungautam"
+  }
+}
