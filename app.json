@@ -2,7 +2,7 @@
   "expo": {
     "name": "Zoom Tic Tac Toe",
     "slug": "zoom-tic-tac-toe",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -14,9 +14,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#1e3a8a"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.corpolatech.zoomtictactoe"
@@ -28,10 +26,8 @@
       },
       "edgeToEdgeEnabled": true,
       "package": "com.corpolatech.zoomtictactoe",
-      "versionCode": 1,
-      "permissions": [
-        "android.permission.VIBRATE"
-      ],
+      "versionCode": 3,
+      "permissions": ["android.permission.VIBRATE"],
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.corpolatech.zoomtictactoe"
     },
     "web": {
