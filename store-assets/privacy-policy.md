@@ -1,6 +1,6 @@
 # Privacy Policy for Zoom Tic Tac Toe
 
-**Effective Date:** [Current Date]
+**Effective Date:** Aug 28, 2025
 
 ## Introduction
 
@@ -79,8 +79,8 @@ Since we don't collect any personal information:
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [Your Email Address]
-**Developer:** [Your Name/Company Name]
+**Email:** contact#gautamarjun.com.np
+**Developer:** Arjun Gautam
 
 ## Consent
 
